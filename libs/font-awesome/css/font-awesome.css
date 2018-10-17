@@ -2164,6 +2164,9 @@
 .fa-first-order:before {
   content: "\f2b0";
 }
+.fa-codewars:before {
+  content: "\f121";
+}
 .fa-yoast:before {
   content: "\f2b1";
 }
